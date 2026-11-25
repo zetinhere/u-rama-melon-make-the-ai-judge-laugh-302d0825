@@ -1,0 +1,31 @@
+A vs B: B wins, margin 3 :: Both are true office observations, but A's "fire drill = the one on-time meeting" is a familiar line, while B's turn lan
+A vs C: C wins, margin 3 :: B is fresher and more specific, with “nobody clicks” landing as a sharper, more unexpected turn than A’s familiar fire-d
+A vs D: D wins, margin 4 :: Entry A is a clean, true observation but it's a familiar line, while Entry B takes a fresher angle on workplace surveill
+A vs E: E wins, margin 3 :: B's "never quick, never a question, always at 4:55" is a sharper, more specific office observation with a better escalat
+A vs F: F wins, margin 4 :: B has the sharper, more specific office truth—synergy as a group of people claiming an intern's spreadsheet—and its unex
+A vs H: H wins, margin 3 :: A is a familiar observation with a soft landing; B gives a real office truth and a fresh last-word twist that reframes t
+B vs C: C wins, margin 3 :: B has the sharper, more specific office observation, and its deadpan "link nobody clicks" lands fresher than the well-wo
+B vs D: D wins, margin 4 :: B has the fresher, more surprising turn—tying a tracked mouse to the office dog and getting promoted for it—while A lean
+B vs E: E wins, margin 4 :: B has the sharper, more specific office truth: the "quick question" that's neither, capped by the perfectly timed 4:55 t
+B vs F: F wins, margin 4 :: A leans on the well-worn "two settings" template, while B actually pins an office truth — credit flowing upward from the
+B vs H: H wins, margin 4 :: B's fresh final twist makes the printer's timing feel like a real office truth, while A is a thermostat joke you can hea
+C vs D: D wins, margin 4 :: A is true and tight, but "a link nobody clicks" is a familiar office punchline; B takes the same surveillance anxiety an
+C vs E: C wins, margin 3 :: A's image is fresher and truer — the sunset poster plus the unclicked link nails HR wellness in one breath — while B lea
+C vs F: F wins, margin 3 :: Both land, but B's definition of synergy is a sharper, fresher observation—A's "poster and a link nobody clicks" is a we
+C vs H: H wins, margin 3 :: B has the sharper turn — the printer’s betrayal is instantly recognizable, and “most honest performance review in the bu
+D vs E: E wins, margin 3 :: B's "never quick, never a question, always at 4:55" is the sharper, instantly recognizable office truth, while A's dog p
+D vs F: F wins, margin 3 :: Both land, but B is the truer office observation — the "synergy" definition with the intern's spreadsheet is a real meet
+D vs H: ERROR HTTP Error 503: Service Unavailable
+E vs F: F wins, margin 3 :: B has the sharper true observation — the definition pivot lands on a specific, recognizable office sin (credit theft fro
+E vs H: H wins, margin 3 :: Both are solid office truths, but A's "never X, never Y" triple is a well-worn construction you can hear in any break ro
+F vs H: H wins, margin 3 :: Entry B has the fresher turn, reframing the printer's mistimed jam as an "honest performance review," while Entry A's sy
+
+=== STANDINGS (win share over games played) ===
+H: 4.10/5 = 0.820  (The printer only jams when the document matters — it's the most honest performance review in the building.)
+F: 4.40/6 = 0.733  (I finally understand synergy: it's when five people take credit for the intern's spreadsheet.)
+D: 3.10/5 = 0.620  (My boss tracks my mouse, so I tied it to the office dog. I'm now employee of the month.)
+E: 3.10/6 = 0.517  (Our manager's favorite phrase is 'quick question' — it's never quick, never a question, and always at 4:55.)
+C: 2.90/6 = 0.483  (HR's wellness program is a poster of a sunset and a link nobody clicks.)
+B: 1.40/6 = 0.233  (Our office thermostat has two settings: arctic and passive-aggressive.)
+A: 1.00/6 = 0.167  (The fire drill is the only meeting everyone attends on time.)
+[{"pair": ["A", "B"], "winner": "B", "margin": 3}, {"pair": ["A", "C"], "winner": "C", "margin": 3}, {"pair": ["A", "D"], "winner": "D", "margin": 4}, {"pair": ["A", "E"], "winner": "E", "margin": 3}, {"pair": ["A", "F"], "winner": "F", "margin": 4}, {"pair": ["A", "H"], "winner": "H", "margin": 3}, {"pair": ["B", "C"], "winner": "C", "margin": 3}, {"pair": ["B", "D"], "winner": "D", "margin": 4}, {"pair": ["B", "E"], "winner": "E", "margin": 4}, {"pair": ["B", "F"], "winner": "F", "margin": 4}, {"pair": ["B", "H"], "winner": "H", "margin": 4}, {"pair": ["C", "D"], "winner": "D", "margin": 4}, {"pair": ["C", "E"], "winner": "C", "margin": 3}, {"pair": ["C", "F"], "winner": "F", "margin": 3}, {"pair": ["C", "H"], "winner": "H", "margin": 3}, {"pair": ["D", "E"], "winner": "E", "margin": 3}, {"pair": ["D", "F"], "winner": "F", "margin": 3}, {"pair": ["E", "F"], "winner": "F", "margin": 3}, {"pair": ["E", "H"], "winner": "H", "margin": 3}, {"pair": ["F", "H"], "winner": "H", "margin": 3}]
