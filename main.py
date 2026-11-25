@@ -57,6 +57,7 @@ def main() -> None:
     path = os.path.join(out_dir, "entry.txt")
     with open(path, "w", encoding="utf-8") as f:
         f.write(joke)
+    os.chmod(path, 0o644)  # /output files are 0644 whatever the sandbox umask is
     print(f"wrote {len(joke)} chars to {path}")
 
 
